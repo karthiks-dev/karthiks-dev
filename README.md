@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @becrazycoder
-- 👀 I’m interested in web and machine learning
-- 🌱 I’m currently learning Python
+👋 Hi, I'm Karthik. A Backend Engineer with 3+ years of experience. Working with Go and Python
